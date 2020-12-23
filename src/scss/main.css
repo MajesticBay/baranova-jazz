@@ -1,3 +1,9 @@
+.pointer {
+  cursor: pointer; }
 
+:root {
+  --color-accent: #E2A327;
+  --color-white: #F2ECDF;
+  --color-black: #151515; }
 
 /*# sourceMappingURL=main.css.map */
